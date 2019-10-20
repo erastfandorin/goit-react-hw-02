@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/go-it-react/static/css/main.b609d40e.chunk.css",
-    "main.js": "/go-it-react/static/js/main.a7035392.chunk.js",
-    "main.js.map": "/go-it-react/static/js/main.a7035392.chunk.js.map",
-    "runtime-main.js": "/go-it-react/static/js/runtime-main.45984be4.js",
-    "runtime-main.js.map": "/go-it-react/static/js/runtime-main.45984be4.js.map",
-    "static/css/2.5dbdccff.chunk.css": "/go-it-react/static/css/2.5dbdccff.chunk.css",
-    "static/js/2.27c51477.chunk.js": "/go-it-react/static/js/2.27c51477.chunk.js",
-    "static/js/2.27c51477.chunk.js.map": "/go-it-react/static/js/2.27c51477.chunk.js.map",
-    "index.html": "/go-it-react/index.html",
-    "precache-manifest.a8b068c0e0347a3632eecf90d68b4e38.js": "/go-it-react/precache-manifest.a8b068c0e0347a3632eecf90d68b4e38.js",
-    "service-worker.js": "/go-it-react/service-worker.js",
-    "static/css/2.5dbdccff.chunk.css.map": "/go-it-react/static/css/2.5dbdccff.chunk.css.map",
-    "static/css/main.b609d40e.chunk.css.map": "/go-it-react/static/css/main.b609d40e.chunk.css.map"
+    "main.css": "/goit-react-hw-02/static/css/main.b609d40e.chunk.css",
+    "main.js": "/goit-react-hw-02/static/js/main.a7035392.chunk.js",
+    "main.js.map": "/goit-react-hw-02/static/js/main.a7035392.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-02/static/js/runtime-main.1fe343d2.js",
+    "runtime-main.js.map": "/goit-react-hw-02/static/js/runtime-main.1fe343d2.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/goit-react-hw-02/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.27c51477.chunk.js": "/goit-react-hw-02/static/js/2.27c51477.chunk.js",
+    "static/js/2.27c51477.chunk.js.map": "/goit-react-hw-02/static/js/2.27c51477.chunk.js.map",
+    "index.html": "/goit-react-hw-02/index.html",
+    "precache-manifest.3e5f5ad0be3523d8a5a32703afdcbe17.js": "/goit-react-hw-02/precache-manifest.3e5f5ad0be3523d8a5a32703afdcbe17.js",
+    "service-worker.js": "/goit-react-hw-02/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/goit-react-hw-02/static/css/2.5dbdccff.chunk.css.map",
+    "static/css/main.b609d40e.chunk.css.map": "/goit-react-hw-02/static/css/main.b609d40e.chunk.css.map"
   }
 }
