@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/go-it-react/static/css/main.b609d40e.chunk.css",
+    "main.js": "/go-it-react/static/js/main.a7035392.chunk.js",
+    "main.js.map": "/go-it-react/static/js/main.a7035392.chunk.js.map",
+    "runtime-main.js": "/go-it-react/static/js/runtime-main.45984be4.js",
+    "runtime-main.js.map": "/go-it-react/static/js/runtime-main.45984be4.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/go-it-react/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.27c51477.chunk.js": "/go-it-react/static/js/2.27c51477.chunk.js",
+    "static/js/2.27c51477.chunk.js.map": "/go-it-react/static/js/2.27c51477.chunk.js.map",
+    "index.html": "/go-it-react/index.html",
+    "precache-manifest.a8b068c0e0347a3632eecf90d68b4e38.js": "/go-it-react/precache-manifest.a8b068c0e0347a3632eecf90d68b4e38.js",
+    "service-worker.js": "/go-it-react/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/go-it-react/static/css/2.5dbdccff.chunk.css.map",
+    "static/css/main.b609d40e.chunk.css.map": "/go-it-react/static/css/main.b609d40e.chunk.css.map"
+  }
+}
